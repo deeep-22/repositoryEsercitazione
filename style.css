@@ -147,7 +147,7 @@ body{
 }
 
 .vs{
-    
+
     background-color: rgba(53, 27, 82, 0.5);
     border: 1px solid rgba(99, 47, 138, 0.8);
     border-radius: 20px;
@@ -157,5 +157,20 @@ body{
     align-items: center;
     gap: 20px;
     color: antiquewhite;
+
+}
+
+.giocatori{
+
+    width: 1000px;
+    background-color: rgba(53, 27, 82, 0.5);
+    border: 1px solid rgba(99, 47, 138, 0.8);
+    border-radius: 20px;
+    display: flex;
+    
+    align-items: center;
+    gap: 20px;
+    color: antiquewhite;
+
 
 }
